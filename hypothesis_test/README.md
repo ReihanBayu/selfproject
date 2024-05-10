@@ -1,4 +1,9 @@
-# Data
+# Deskripsi Proyek
+Kamu adalah seorang data analyst di sebuah toko online besar. Kamu bersama tim pemasaran telah menyusun daftar hipotesis untuk membantu meningkatkan pendapatan. 
+
+Nah, tugasmu adalah memprioritaskan hipotesis tersebut, menjalankan A/B testing, dan menganalisis hasilnya.
+
+# Deskripsi Data
 ## Hyphoteses
 * Hypotheses — deskripsi singkat tentang hipotesis
 * Reach — jangkauan pengguna, dalam skala satu hingga sepuluh
