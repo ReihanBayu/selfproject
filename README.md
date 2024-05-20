@@ -14,6 +14,7 @@ genre_music | Menganalisa preferensi genre musik pada penduduk Kota Springfield 
 gym_churn | Menganalisa profil pelanggan pada GYM dan mengembangkan strategi untuk meningkatkan retensi pelanggan GYM
 hypothesis_test | Memprioritaskan hipotesis yang telah disusun bersama tim pemasaran pada sebuah toko online besar
 prepaid_package | Menganalisa pelanggan pada sebuah perusahaan operator telekomunikasi untuk mengetahui paket prabayar yang menghasilkan lebih banyak pendapatan agar bisa membuat anggaran iklan yang sesuai
+LA_restaurant | Riset pasar untuk merencanakan pembukaan cafe baru dengan konsep robot sebagai pramusaji
 
 
 
