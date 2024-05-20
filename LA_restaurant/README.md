@@ -8,3 +8,11 @@ Mereka tertarik dengan kondisi pasar saat ini—tetapi, apakah kamu bisa mempert
 Mengingat kamu adalah seorang pakar analisis, para mitra pun memintamu untuk mempersiapkan sejumlah riset pasar. 
 Kamu memiliki data open-source terkait jenis-jenis usaha tempat makan di LA.
 
+# Deskripsi data
+Tabel rest_data:
+* object_name — nama usaha
+* chain — usaha berbasis waralaba (TRUE/FALSE)
+* object_type — jenis usaha
+* address — alamat
+* number — jumlah kursi
+
