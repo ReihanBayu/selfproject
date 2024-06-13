@@ -1,5 +1,7 @@
 # selfproject
-berisikan beberapa daftar project yang sudah diselesaikan dari TripleTen Indonesia
+Proyek Data Analisis - Tripleten Indonesia
+
+Repositori ini berisi kumpulan proyek data analisis yang telah diselesaikan selama mengikuti kursus Data Analysis di Tripleten Indonesia. Setiap proyek dirancang untuk mengembangkan dan menguji keterampilan analitis, pemahaman statistik, serta kemampuan untuk bekerja dengan berbagai alat dan teknologi data. Repositori ini mencakup proyek-proyek yang memanfaatkan Python, SQL, serta library analisis data populer seperti Pandas, NumPy, Matplotlib, dan Seaborn.
 
 Nama Project | Garis Besar Project 
 ------------ | --------------
